@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Cấu hình chung
-          user: kunlu
+          user: hieu2816
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
