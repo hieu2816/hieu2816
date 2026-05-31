@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm kunlu!
+# ⚡ Hi, I'm hieu!
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;DevOps+%2F+SRE+Enthusiast;System+Architecture+Learner" alt="Typing SVG" />
